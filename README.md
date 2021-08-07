@@ -13,7 +13,7 @@ A Image editor project that allows you to create new images based on a given ima
     - Vertical contrast
     - Horizontal contrast
     - Circle contrast
-  - Blue Options
+  - Blur Options
     - Horizontal Blur
     - Vertical Blur
     - Circle Blur
